@@ -1,4 +1,4 @@
-## Deskripsi
+## Description
 BTPN Syariah Full Stack Developer Intern Final Project
 
 ## Tools & Libraries
